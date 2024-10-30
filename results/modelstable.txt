@@ -1,0 +1,28 @@
+		(1)	(2)
+VARIABLES	LABELS	Original Fair Model	Fair Model with Quality
+			
+g_i	G*I	0.71***	
+		(0.13)	
+p_i	P*I	-0.61*	
+		(0.32)	
+z_i	Z*I	0.87***	
+		(0.26)	
+i	I	-0.85	
+		(2.27)	
+dper	DPER	2.11	
+		(1.58)	
+dur	DUR	-3.45**	
+		(1.39)	
+war	WAR	3.90	
+		(2.77)	
+vp_pred_fair	Fair Model Pred		0.81***
+			(0.10)
+fe_election	Quality Differential		4.41***
+			(0.87)
+			
+Observations		27	18
+Adjusted R-squared		0.79	0.90
+Sample		1916-2020	1952-2020
+MAE		2.11	1.14
+RMSE		2.53	1.59
+2024 Prediction		49.3	52.5
