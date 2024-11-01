@@ -11,4 +11,4 @@ I introduce a new model for predicting presidential election outcomes, using it 
 
 ### Read the Paper
 
-Draft link: [placeholder]
+Draft link: https://doi.org/10.31235/osf.io/4x9gz
